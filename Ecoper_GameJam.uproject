@@ -17,6 +17,16 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "SteamSockets",
+			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"IOS",
+		"Linux",
+		"Mac",
+		"Windows"
 	]
 }
